@@ -2,7 +2,7 @@ import streamlit as st
 import pickle
 
 # Load the trained model
-model = pickle.load(open('model.pkl', 'rb'))
+model = pickle.load(open('C:/Users/admin/Downloads/model.pkl', 'rb'))
 
 
 # Function to make predictions
